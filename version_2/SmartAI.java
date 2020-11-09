@@ -3,18 +3,18 @@
  *
  * STUDENTS: Nothing to change here.
  *
- * @author Andrew Vardy
+ * @author wahidul hasan abir
  */
 
 import java.lang.UnsupportedOperationException;
 
 public class SmartAI implements AI {
-    
+
     private char piece;
-    
+
     /**
      * Construct a SmartAI.
-     * 
+     *
      * @param aiIsX Indicates whether the AI player's piece is
      *              the 'X'.
      */

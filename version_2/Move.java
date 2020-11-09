@@ -3,7 +3,7 @@
  *
  * STUDENTS: Nothing to change here.
  *
- * @author Andrew Vardy
+ * @author wahidul hasan abir
  */
 
 public class Move {
@@ -18,15 +18,15 @@ public class Move {
     public Move(int i, int j, char piece) {
         this.piece = piece;
     }
-    
+
     public int getI() {
         return i;
     }
-    
+
     public int getJ() {
         return j;
     }
-    
+
     public char getPiece() {
         return piece;
     }

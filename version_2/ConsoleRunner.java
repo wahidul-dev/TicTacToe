@@ -4,7 +4,7 @@
  * ‘place’ methods in Game.  Prompts the user for inputs and outputs the state
  * of the board to the console.
  *
- * @author INSERT YOUR NAME(S) HERE
+ * @author wahidul hasan abir
  */
 
 import java.util.Scanner;
@@ -18,7 +18,7 @@ public class ConsoleRunner {
     private boolean playerIsX;
 
     private Game game;
-    
+
     // Use to process text input from the user.
     private Scanner scanner = new Scanner(System.in);
 
@@ -29,7 +29,7 @@ public class ConsoleRunner {
     /**
      * Constructor
      */
-    public ConsoleRunner() {    
+    public ConsoleRunner() {
         /*
          * TBD
          *
